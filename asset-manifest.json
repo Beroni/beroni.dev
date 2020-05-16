@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/beroni.dev/static/css/main.5f361e03.chunk.css",
+    "main.js": "/beroni.dev/static/js/main.a9feaafb.chunk.js",
+    "main.js.map": "/beroni.dev/static/js/main.a9feaafb.chunk.js.map",
+    "runtime-main.js": "/beroni.dev/static/js/runtime-main.0e9ce0d0.js",
+    "runtime-main.js.map": "/beroni.dev/static/js/runtime-main.0e9ce0d0.js.map",
+    "static/js/2.15931a8f.chunk.js": "/beroni.dev/static/js/2.15931a8f.chunk.js",
+    "static/js/2.15931a8f.chunk.js.map": "/beroni.dev/static/js/2.15931a8f.chunk.js.map",
+    "index.html": "/beroni.dev/index.html",
+    "precache-manifest.111fbbdf48df684cdbd31ea902b4fa7a.js": "/beroni.dev/precache-manifest.111fbbdf48df684cdbd31ea902b4fa7a.js",
+    "service-worker.js": "/beroni.dev/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/beroni.dev/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.15931a8f.chunk.js.LICENSE.txt": "/beroni.dev/static/js/2.15931a8f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/beroni.dev/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e9ce0d0.js",
+    "static/js/2.15931a8f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a9feaafb.chunk.js"
+  ]
+}
